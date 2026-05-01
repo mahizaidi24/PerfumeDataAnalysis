@@ -169,9 +169,9 @@ This model can be used for:
 ## 👨‍💻 Project By
 
 **Mahnoor(22)**
-**Kosar Tawassoli(14)**
 ---
-
+## 👨‍💻 Project Report By
+**Kosar Tawassoli(14)**
 ## 🔗 Links
  
 - Dataset Source: *(https://www.kaggle.com/datasets/monirahabdulaziz/noon-perfume)*
